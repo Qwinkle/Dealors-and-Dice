@@ -1,15 +1,11 @@
 # Dealors-and-Dice
 ***********************
 * Random Dice Roller.
-*
-*
-*
-*
 *******************
 
 DealorAndDice.java
 
-****************8
+*******************
 * Line 1
 * File location.
 *
